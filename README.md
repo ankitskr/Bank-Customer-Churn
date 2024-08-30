@@ -15,7 +15,7 @@ This project walks you through a complete end-to-end cycle of a data science pro
 - **Jupyter Notebook**: For interactive data analysis and sharing of results.
 
 ## Working demonstration
-A working demonstration is provided in the notebooks folder.
+A working demonstration is provided in the notebooks folder:
 [notebooks/bank_customer_churn.ipynb](https://github.com/ankitskr/Bank-Customer-Churn/blob/main/notebooks/bank_customer_churn.ipynb)
 
 
